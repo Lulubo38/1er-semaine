@@ -1,0 +1,22 @@
+  #introduction a React
+
+Une biblioteque open source qui permet la construction d'interfaces graphique avec HTML, CSS et JAvascrip.
+
+Dans cette introduction, nous allons
+-comprendre les avantage apporter par React
+decouvrir le **JSX**
+Crée des **compossants**
+Comprendre les imports et les exports
+utiliser des **props**
+utiliser le State
+utiliser les events en React
+
+Javascrip permet de mnipuler le DOM; c'est la representation 'objet' des elements HTML qui constitue une page web . autrement dit , c'est une interface qui permet d'interagir avec la stucture des pages web.
+React utilise un DOM virtuel pour afficher ses composants (virtual DOM, shadow DOM), car manipuler le DON directement peut etre tres couteux.
+Le JSX n'est pas directement execute par les navigateurs Wet)
+
+Les imports et les exports en JS : 
+* Les exports/import nommes
+* -l'export 
+* ecma script ( assos qui a crée et maintien Js )
+  
